@@ -24,4 +24,4 @@ Quote Of The Day is a minimalist web application that displays random quotes fet
 
 [Quotable API](api.quotable.io) for providing quotes.
 
-[Uiverse.io](uiverse.io) for providing designs of buttons used.
+[Uiverse.io](https://uiverse.io/) for providing designs of buttons used.
