@@ -4,9 +4,9 @@ Quote Of The Day is a minimalist web application that displays random quotes fet
 
 ## Preview
 
-[![1](https://github.com/atharvthakle/Quote-Of-The-Day/assets/136578804/c9a268fe-7d61-4185-aae7-762f04e6f9f7)](https://quoteoftheday-by-at.netlify.app/)
+[![1](https://github.com/atharvthakle/Quote-Of-The-Day/assets/136578804/a9b75c19-ffc5-4ae9-bbad-6847baf41186)](https://quoteoftheday-by-at.netlify.app/)
 
-[![2](https://github.com/atharvthakle/Quote-Of-The-Day/assets/136578804/57141f69-77ea-4211-ac78-a973fabd5eda)](https://quoteoftheday-by-at.netlify.app/)
+[![2](https://github.com/atharvthakle/Quote-Of-The-Day/assets/136578804/1f99e56e-8496-48d0-97fd-9a0876413825)](https://quoteoftheday-by-at.netlify.app/)
 
 ## Features
 
